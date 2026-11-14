@@ -1,0 +1,13 @@
+body {
+    font-family: 'Glacial Indifference', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+
+table {
+    margin-top: 10px;
+}
